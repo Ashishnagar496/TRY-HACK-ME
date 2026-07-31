@@ -72,7 +72,7 @@ this will give this type of output :
 {accessKeyId: 'ASIAU2VYxxxx6JOWQS5', secretAccessKey: 'k8Uxxxxxxotn3BQuqv7PYYqq2HDpWCLL0mpue', sessionToken: 'IQoJb3JpZ2luX2VjEMr//////////wEaCXVzLWVhc3QtMSJHME…cgRdo3ZRmWHRbxkqQHzliAC7tpBijtWUEkZAhcBCtGMblD8LT', identityId: 'us-east-1:4d571309-b094-ca4d-7267-ee73a3f4cacb'}
 accessKeyId
 : 
-"ASIAU2VYTBGYP6JOWQS5"
+"ASIAxxxxxxP6JOWQS5"
 identityId
 : 
 "us-east-1:xxxxx-b094-ca4d-7267-exxxxx4cacb"
